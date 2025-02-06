@@ -29,5 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luukhoahoc&show_icons=true&locale=en" alt="luukhoahoc" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luukhoahoc)](https://git.io/streak-stats)
+
 <a href="https://app.daily.dev/hoclk"><img src="https://github.com/LuuKhoaHoc/LuuKhoaHoc/blob/main/devcard.svg" width="400" alt="Lưu Khoa Học's Dev Card"/></a>
 
