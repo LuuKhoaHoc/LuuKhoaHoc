@@ -29,8 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luukhoahoc&show_icons=true&locale=en" alt="luukhoahoc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luukhoahoc&" alt="luukhoahoc" /></p>
-
-
 <a href="https://app.daily.dev/hoclk"><img src="https://github.com/LuuKhoaHoc/LuuKhoaHoc/blob/main/devcard.svg" width="400" alt="Lưu Khoa Học's Dev Card"/></a>
 
