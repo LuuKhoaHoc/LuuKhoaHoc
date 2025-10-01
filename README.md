@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react, css, nextjs, gsap**
 
-- 📫 How to reach me **lkhoc200443@gmail.com**
+- 📫 How to reach me **luukhoahoc.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
