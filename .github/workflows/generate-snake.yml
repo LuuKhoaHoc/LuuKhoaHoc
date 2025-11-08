@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # chạy mỗi 12 giờ
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -27,14 +27,16 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
+      # Show the status of the build (makes debugging easier)
+      - name: Show build status
+        run: git status
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      # Verify dist directory has files
+      - name: Check dist directory
+        run: ls -la dist/
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
