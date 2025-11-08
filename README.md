@@ -36,7 +36,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luukhoahoc&show_icons=true&locale=en" alt="luukhoahoc" /></p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luukhoahoc&theme=catppuccin-macchiato&border_radius=8" alt="GitHub Streak" /></a>
 <p>Watch my contributions over the year:</p>
-![snake gif](https://github.com/luukhoahoc/luukhoahoc/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luukhoahoc/luukhoahoc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luukhoahoc/luukhoahoc/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luukhoahoc/luukhoahoc/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 <h3 align="left">Connect with me:</h3>
