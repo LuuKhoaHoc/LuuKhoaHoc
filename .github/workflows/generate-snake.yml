@@ -17,6 +17,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Create build directory
+        run: mkdir -p dist
+
       - uses: Platane/snk@v3
         id: snake-gif
         with:
