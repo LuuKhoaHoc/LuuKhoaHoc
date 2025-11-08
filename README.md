@@ -1,19 +1,22 @@
-<h1 align="center">Hi 👋, I'm Luu Khoa Hoc</h1>
-<h3 align="center">Front-End Developer from Vietnam | Eager to Learn & Contribute</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Luu+Khoa+Hoc" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Front-End+Developer+from+Vietnam+%7C+Eager+to+Learn+%26+Contribute" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luukhoahoc&label=Profile%20views&color=0e75b6&style=flat" alt="luukhoahoc" /> </p>
 
 - 🔭 I’m currently working on [Prismane](https://www.prismane.io/)
 
-- 🌱 I’m currently learning **NextJS, GSAP, CSS Animation**
+- 🌱 I’m currently **NestJS, GSAP, CSS Animation**
 
 - 👨‍💻 All of my projects are available at [#](#)
 
 - 📝 I regularly write articles on [#](#)
 
-- 💬 Ask me about **react, css, nextjs, gsap**
+- 💬 Ask me about **react, css, nextjs, motion**
 
 - 📫 How to reach me **luukhoahoc.work@gmail.com**
+
+- 🌕 My portfolio: **[luukhoahoc.me](https://luukhoahoc.me)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +35,3 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luukhoahoc&theme=catppuccin-macchiato&border_radius=8" alt="GitHub Streak" /></a>
 
 <a href="https://app.daily.dev/hoclk"><img src="https://github.com/LuuKhoaHoc/LuuKhoaHoc/blob/main/devcard.svg" width="400" alt="Lưu Khoa Học's Dev Card"/></a>
-
