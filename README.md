@@ -23,7 +23,7 @@
 
 - 🤝 Open to collaboration
 
-- 💼 [Resume](https://luukhoahoc.me/resume.pdf)
+- 💼 [Resume](https://luukhoahoc.me/cv)
 
 - 🌐 [Portfolio](https://luukhoahoc.me)
 
