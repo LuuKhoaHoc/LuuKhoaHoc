@@ -34,7 +34,9 @@
 
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luukhoahoc&show_icons=true&locale=en" alt="luukhoahoc" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luukhoahoc&theme=catppuccin-macchiato&border_radius=8" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LuuKhoaHoc&theme=catppuccin-macchiato&border_radius=8)](https://git.io/streak-stats)
+
 <p>Watch my contributions over the year:</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luukhoahoc/luukhoahoc/output/github-contribution-grid-snake-dark.svg">
